@@ -8,16 +8,6 @@
 
 ---
 
-## 📼 Mixtape
-
-<div align="center">
-
-<img alt="Zuha Maryam's repositories as a mixtape" src="https://www.gitskins.com/api/section/mix-tape?username=zuhamaryam&mode=dark&v=2026-11-11&pv=VA1x6qMeONXaLeWe" />
-
-</div>
-
----
-
 ## 📌 About Me
 
 I am a **final-year Computer Science and Engineering student** passionate about **Python, Machine Learning, Artificial Intelligence, and Data Science**. I enjoy exploring intelligent technologies, solving technical problems, and building practical applications that address real-world challenges.
@@ -28,12 +18,6 @@ I am a **final-year Computer Science and Engineering student** passionate about 
 - 📊 Exploring Data Science, Data Analytics and SQL
 - 🚀 Building practical projects and innovative solutions
 - 🎯 **Career Goal:** AI/ML Engineer
-
-<div align="center">
-
-<img alt="About" src="https://www.gitskins.com/api/section/tape-about?username=zuhamaryam&mode=dark&v=2026-11-11&pv=VA1x6qMeONXaLeWe" />
-
-</div>
 
 ---
 
@@ -74,19 +58,13 @@ I am a **final-year Computer Science and Engineering student** passionate about 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img alt="Top Languages" src="https://www.gitskins.com/api/section/stack?username=zuhamaryam&theme=github-dark&mode=dark" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhamaryam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<img alt="Projects by stars" src="https://www.gitskins.com/api/section/tape-list?username=zuhamaryam&mode=dark&v=2026-11-11&pv=VA1x6qMeONXaLeWe" />
-
-</div>
 
 | Project | What it is |
 |---|---|
@@ -105,14 +83,10 @@ I am a **final-year Computer Science and Engineering student** passionate about 
 
 <div align="center">
 
-<img alt="Last 26 weeks of contributions" src="https://www.gitskins.com/api/section/tape-log?username=zuhamaryam&mode=dark&v=2026-11-11&pv=VA1x6qMeONXaLeWe" />
-
-<img alt="Contribution snake" src="https://www.gitskins.com/api/section/heatmap?username=zuhamaryam&theme=github-dark&mode=dark&style=snake&pv=LhdWU4Mwpq5bAG-O" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuhamaryam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9" />
+<img height="180" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=zuhamaryam&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 <br/>
-
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuhamaryam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhamaryam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zuhamaryam&theme=dark&hide_border=true&background=0D1117&border=00FF41&ring=00FF41&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
 
